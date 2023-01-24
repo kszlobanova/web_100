@@ -1,4 +1,5 @@
 “Маленький карманный апокалипсис”
+
 Modern writers vs. the System
 
 We present to you our project inspired by love of literature and quick wit. This web-site is an almanac of written thoughts and expressions by renowned modern Russian writers whose views on the political system are clear and whose language is eloquent yet concise. 

@@ -152,14 +152,27 @@ body {
 
 		.quote {
             display: flex;
-            flex-direction: row;
+			position: relative;
             align-items: center;
-            margin-bottom: 15px;
 			font-weight: normal;
 			line-height: 1;
 			font-size: 40px;
 			color:  rgba(46, 45, 45, 0.5);
 		}
+
+		.quote p {
+			opacity: 0;
+			filter: blur(4px);
+			animation: openclose 4s ease-in-out infinite;
+		}
+
+		@keyframes openclose {
+			100% {
+				opacity: 1;
+				filter: blur(0);
+				transform: scale(1);
+			  }
+		  }
 
 /* List */
 

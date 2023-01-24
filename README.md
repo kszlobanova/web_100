@@ -23,11 +23,11 @@ Nabokov's metaphors are often difficult to translate to another language, but tu
 <h3>Expected results </h3>
 <p> We hope that people could relate to the quotes and the metaphors would resonate with the audience and encourage people to think critically. We expect to gain the audience’s reaction, no matter its connotation. We eventually aspire to draw more attention to current events in Russia, what happens right now before our very eyes. We want to go beyond allowed without going beyond the law. (“выйти за рамки дозволенного, не выходя за рамки закона”).</p>
 
-<p>Still, we realize that although we might dream of future collaboration with cultural institutions, offline exhibition, collaborations with artists and designers, etc. —
-		what we would more certainly get is:
-            * criticism (from people),
-            * censorship (законы о дискредbтации, иноагентах),
-            * blasphemy law.</p>
+<p>Still, we realize that although we might dream of future collaboration with cultural institutions, offline exhibition, collaborations with artists and designers, etc. —</p>
+		<p> what we would more certainly get is:</p>
+           <p> * criticism (from people),</p>
+           <p> * censorship (законы о дискредbтации, иноагентах),</p>
+           <p> * blasphemy law.</p>
 
 
 <h3>Our web-site</h3>

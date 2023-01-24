@@ -302,14 +302,13 @@ body {
 			width: 100%;
 			z-index: 0;
 		}
-			}
 
 /* Footer */
-	#footer {
-		padding: 4rem 0 2rem 0 ;
-		background: #000;
-		text-align: center;
-	}
+	    #footer {
+		    padding: 4rem 0 2rem 0 ;
+		    background: #000;
+		    text-align: center;
+	    }
 
 		#footer a {
 			color: rgba(255, 255, 255, 0.5);

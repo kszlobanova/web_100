@@ -133,5 +133,24 @@ body {
 					background-color: rgba(255, 255, 255, 0.5);
 				}
 
+/* Banner */
 
-                
+	.banner.full {
+		padding: 0;
+		min-height: 100vh;
+		height: 100vh;
+		}
+
+	.banner > article {
+		background-attachment: fixed;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		height: 100%;
+		left: 0;
+		position: absolute;
+		text-align: center;
+		top: 0;
+		width: 100%;
+		z-index: 0;
+		}

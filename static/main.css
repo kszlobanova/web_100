@@ -1,6 +1,7 @@
 /* All */
 html, body, div, span, h2, p, a, img, li,
 footer, header, section {
+	display: grid;
 	margin: 0;
 	padding: 0;
 	border: 0;

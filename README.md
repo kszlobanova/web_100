@@ -26,7 +26,7 @@ Nabokov's metaphors are often difficult to translate to another language, but tu
 <p>Still, we realize that although we might dream of future collaboration with cultural institutions, offline exhibition, collaborations with artists and designers, etc. —</p>
 		<p> what we would more certainly get is:</p>
            <p> * criticism (from people),</p>
-           <p> * censorship (законы о дискредbтации, иноагентах),</p>
+           <p> * censorship (законы о дискредитации, иноагентах),</p>
            <p> * blasphemy law.</p>
 
 

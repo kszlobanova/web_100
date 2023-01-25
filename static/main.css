@@ -258,6 +258,7 @@ body {
 		display: flex;
 		flex-wrap: wrap;
 		align-items: stretch;
+		margin-bottom: -150px;
 	}
 
 		.grid-style > * {

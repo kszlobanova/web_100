@@ -161,12 +161,15 @@ body {
 		}
 
 		.quote p {
-			opacity: 0;
-			filter: blur(4px);
-			animation: openclose 4s ease-in-out infinite;
+			animation-name: openclose;
+			animation-duration: 5.5s;
+			animation-iteration-count: 1;
 		}
 
 		@keyframes openclose {
+			0% { 
+				opacity: 0;
+				filter: blur(4px); }
 			100% {
 				opacity: 1;
 				filter: blur(0);

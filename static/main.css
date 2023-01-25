@@ -63,9 +63,9 @@ body {
 				background-color: rgba(0, 0, 0, 0.125);
 			}
 
-			.justify {
-				text-align: justify;
-			  }
+		.justify {
+  		text-align: justify;
+		}
 
 	h2 {
 		font-weight: 300;

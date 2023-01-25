@@ -15,8 +15,8 @@
 <p>Modern literature continues to serve as a "textbook of life" and tries to find ways that reflect the problems and issues that society faces during crisis.</p>
 <p>Analogies, metaphors and similes are a powerful way not only to present the author’s views on any given issue, but also to inspire people’s own analysis and consideration of what’s happening around them and what deeper meaning that may have.</p>
 
-In part the project was inspired by:
-<p> <i>«Nabokov Clip Art»: нейросеть иллюстрирует Набокова».
+<i>In part the project was inspired by:
+<p> «Nabokov Clip Art»: нейросеть иллюстрирует Набокова».
 Nabokov's metaphors are often difficult to translate to another language, but turning them into pictures is also a problem: how should something that can only be embodied in words be visually represented? They tried to answer this question using neural networks.</i> </p>
 
 

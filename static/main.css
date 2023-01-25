@@ -84,11 +84,29 @@ body {
 
 	h3 {
 		color: rgb(255, 255, 255);
-		font-size: 1.90rem;
+		font-size: 1.80rem;
+	}
+
+	h3:after {
+		content: '';
+		margin: auto;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		width: 50%;
+		height: 1.5px;
+		background-color: rgba(255, 255, 255, 0.5);
 	}
 
 	.banner img{
 		width: 100%;
+	}
+
+	.banner p{
+		color: rgb(255, 255, 255);
+		font-size: 1.80rem;
+		padding-bottom: 160px;
+		color: rgba(255, 255, 255, 0.644);
 	}
 
 /* Box */

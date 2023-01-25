@@ -361,6 +361,7 @@ body {
 
 	ul#icons li {
  		display: inline;
+		 margin: 0 20px;
  	}
 
 	#footer a {
@@ -383,5 +384,5 @@ body {
 
 	ul#horizontal-list li {
  		display: inline;
-		 margin: 0 10px;
+		margin: 0 10px;
  	}
